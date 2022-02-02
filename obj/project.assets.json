@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\danii\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Practicum1\\Practicum\\Practicum1.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\GeekBrains\\C#\\Seminars\\Practicum\\Practicum1.csproj",
       "projectName": "Practicum1",
-      "projectPath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Practicum1\\Practicum\\Practicum1.csproj",
-      "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danii\\OneDrive\\Рабочий стол\\Practicum1\\Practicum\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\GeekBrains\\C#\\Seminars\\Practicum\\Practicum1.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\GeekBrains\\C#\\Seminars\\Practicum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
